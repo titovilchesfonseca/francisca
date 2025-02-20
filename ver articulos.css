@@ -1,0 +1,47 @@
+.body{
+    padding:0;
+
+    }
+    .NavBar-Logo{
+        display: grid;
+        grid-template-columns: auto;
+        text-align: center;
+        font-size: 100px;
+
+
+    }
+    .full{
+        background: sandybrown;
+
+    }
+.Nav{
+    background: lightgreen;
+    padding: 5px;
+    border: 5px;
+    text-align: center;
+    font-size: 23px;
+}
+.container{
+    box-sizing: border-box;
+    background: lightcoral;
+    text-align: center;
+    font-size: 35px;
+
+    
+}
+.main{
+    padding: 10px;
+    border: solid 10px orange;
+}
+.article{
+    background: lightgreen;
+    color: blue;
+    text-align: center;
+    font-size: 45px;
+
+}
+.box{
+    background: rgb(69, 193, 150);
+    text-align: center;
+    font-size: 30px;
+}
